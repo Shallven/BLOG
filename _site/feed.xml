@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Who</title>
+		<link></link>
+		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>VD</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://placekitten.com/800/500&quot; alt=&quot;Large example image&quot; title=&quot;Large example image&quot; /&gt;&lt;/p&gt;
+
+&lt;script src=&quot;https://cdn.rawgit.com/google/code-prettify/master/loader/run_prettify.js&quot;&gt;&lt;/script&gt;
+&lt;pre class=&quot;prettyprint&quot;&gt;void love(){
+	printf(&quot;love&quot;);
+}
+
+&lt;/pre&gt;
+</description>
+				<pubDate>Sat, 20 May 2017 00:00:00 -0700</pubDate>
+				<link>/2017/05/20/Valtine's-Day/</link>
+				<guid isPermaLink="true">/2017/05/20/Valtine's-Day/</guid>
+			</item>
+		
+			<item>
+				<title>Example content</title>
+        <description>&lt;h3 id=&quot;title&quot;&gt;Title&lt;/h3&gt;
+
+&lt;h2 id=&quot;title2&quot;&gt;Title2&lt;/h2&gt;
+
+&lt;h1 id=&quot;title3&quot;&gt;Title3&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;separateline&quot;&gt;Separateline&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;link&quot;&gt;Link&lt;/h3&gt;
+
+&lt;p&gt;This is &lt;a href=&quot;http://example.com/&quot; title=&quot;Title&quot;&gt;an example&lt;/a&gt; inline link.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://example.net/&quot;&gt;This link&lt;/a&gt; has no title attribute.&lt;/p&gt;
+
+&lt;p&gt;See my &lt;a href=&quot;/about/&quot;&gt;About&lt;/a&gt; page for details.&lt;/p&gt;
+
+&lt;h3 id=&quot;referencelink&quot;&gt;Referencelink&lt;/h3&gt;
+
+&lt;p&gt;I get 10 times more traffic from &lt;a href=&quot;http://google.com/&quot; title=&quot;Google&quot;&gt;Google&lt;/a&gt; than from
+&lt;a href=&quot;http://search.yahoo.com/&quot; title=&quot;Yahoo Search&quot;&gt;Yahoo&lt;/a&gt; or &lt;a href=&quot;http://search.msn.com/&quot; title=&quot;MSN Search&quot;&gt;MSN&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;blockquote&quot;&gt;BlockQuote&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
+consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
+Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.&lt;/p&gt;
+
+  &lt;p&gt;Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
+id sem consectetuer libero luctus adipiscing.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This is the first level of quoting.&lt;/p&gt;
+
+  &lt;blockquote&gt;
+    &lt;p&gt;This is nested blockquote.&lt;/p&gt;
+  &lt;/blockquote&gt;
+
+  &lt;p&gt;Back to the first level.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;code&quot;&gt;Code&lt;/h3&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;trigger_alert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(){&lt;/span&gt;
+  &lt;span class=&quot;nx&quot;&gt;alert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Lorem Ipsum dolor sit amet&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;nx&quot;&gt;trigger_alert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;using plugin : code&lt;/p&gt;
+
+&lt;script src=&quot;https://cdn.rawgit.com/google/code-prettify/master/loader/run_prettify.js&quot;&gt;&lt;/script&gt;
+&lt;pre class=&quot;prettyprint&quot;&gt;function trigger_alert(){
+  alert(&quot;Lorem Ipsum dolor sit amet&quot;);
+}
+trigger_alert();
+&lt;/pre&gt;
+
+&lt;h3 id=&quot;list&quot;&gt;list&lt;/h3&gt;
+&lt;p&gt;unordered list&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Praesent commodo cursus magna.&lt;/li&gt;
+  &lt;li&gt;Donec id elit non mi porta gravida at eget metus.&lt;/li&gt;
+  &lt;li&gt;Nulla vitae elit libero, a pharetra augue.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;ordered list&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Vestibulum id ligula porta felis euismod semper.&lt;/li&gt;
+  &lt;li&gt;Cum sociis natoque penatibus.&lt;/li&gt;
+  &lt;li&gt;Maecenas sed diam eget risus.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;using &amp;lt;dl&amp;gt;,&amp;lt;dt&amp;gt;,&amp;lt;dd&amp;gt; tags&lt;/p&gt;
+&lt;dl&gt;
+  &lt;dt&gt;HyperText Markup Language (HTML)&lt;/dt&gt;
+  &lt;dd&gt;The language used to describe and define the content of a Web page&lt;/dd&gt;
+
+  &lt;dt&gt;Cascading Style Sheets (CSS)&lt;/dt&gt;
+  &lt;dd&gt;Used to describe the appearance of Web content&lt;/dd&gt;
+
+  &lt;dt&gt;JavaScript (JS)&lt;/dt&gt;
+  &lt;dd&gt;The programming language used to build advanced Web sites and applications&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;h3 id=&quot;image&quot;&gt;Image&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://placekitten.com/g/800/400&quot; alt=&quot;Large example image&quot; title=&quot;Large example image&quot; /&gt;
+&lt;img src=&quot;http://placekitten.com/g/400/200&quot; alt=&quot;Medium example image&quot; title=&quot;Medium example image&quot; /&gt;
+&lt;img src=&quot;http://placekitten.com/g/200/200&quot; alt=&quot;Small example image&quot; title=&quot;Small example image&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;table&quot;&gt;table&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Name&lt;/th&gt;
+      &lt;th&gt;Rank&lt;/th&gt;
+      &lt;th&gt;Score&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Cookie&lt;/td&gt;
+      &lt;td&gt;#69&lt;/td&gt;
+      &lt;td&gt;169&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Buther&lt;/td&gt;
+      &lt;td&gt;#70&lt;/td&gt;
+      &lt;td&gt;169&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Stuart&lt;/td&gt;
+      &lt;td&gt;#71&lt;/td&gt;
+      &lt;td&gt;168&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;video&quot;&gt;Video&lt;/h3&gt;
+
+&lt;iframe width=&quot;800&quot; height=&quot;800&quot; src=&quot;http://player.youku.com/embed/XMjY4MTUxMDc0OA&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;420&quot; src=&quot;http://player.youku.com/embed/XMjY4MTUxMDc0OA&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;iframe width=&quot;400&quot; height=&quot;400&quot; src=&quot;http://player.youku.com/embed/XMjY4MTUxMDc0OA&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+				<pubDate>Sun, 09 Aug 2015 00:00:00 -0700</pubDate>
+				<link>/2015/08/09/example-content/</link>
+				<guid isPermaLink="true">/2015/08/09/example-content/</guid>
+			</item>
+		
+			<item>
+				<title>Whats Jekyll?</title>
+        <description>&lt;p class=&quot;lead&quot;&gt; &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes.&lt;/p&gt;
+
+&lt;p&gt;From &lt;a href=&quot;https://github.com/jekyll/jekyll/blob/master/README.markdown&quot;&gt;the project’s readme&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites. Think of it like a file-based CMS, without all the complexity. Jekyll takes your content, renders Markdown and Liquid templates, and spits out a complete, static website ready to be served by Apache, Nginx or another web server. Jekyll is the engine behind &lt;a href=&quot;https://pages.github.com&quot;&gt;GitHub Pages&lt;/a&gt;, which you can use to host sites right from your GitHub repositories.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It’s an immensely useful tool. Find out more by &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;visiting the project on GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
+				<pubDate>Sat, 08 Aug 2015 00:00:00 -0700</pubDate>
+				<link>/2015/08/08/whats-jekyll/</link>
+				<guid isPermaLink="true">/2015/08/08/whats-jekyll/</guid>
+			</item>
+		
+	</channel>
+</rss>
